@@ -2,7 +2,7 @@
 
 #### I'm a passionate Software Engineer currently working in Paris, France 🇫🇷. 
 
-- 🔭 I’m currently working on building large scale distributed systems (even driven, microservices) [@adobe](https://github.com/adobe)
+- 🔭 I’m currently working on building large scale distributed systems (event driven, microservices) [@adobe](https://github.com/adobe)
 - 🌱 I’m currently learning Rust and Domain Driven Design
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: : [linkedin.com/in/salmanebah](https://www.linkedin.com/in/salmanebah), [twitter.com/realsalmane](https://twitter.com/realsalmane)
